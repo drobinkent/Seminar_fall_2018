@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  14 OCT 2018 21:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  14 OCT 2018 21:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -818,21 +818,21 @@ File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
 ))) (./beamer.aux)
 \openout1 = `beamer.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 42.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
@@ -903,7 +903,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box79
-Package hyperref Info: Link coloring OFF on input line 39.
+Package hyperref Info: Link coloring OFF on input line 42.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -913,9 +913,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count169
 )
-LaTeX Info: Redefining \ref on input line 39.
-LaTeX Info: Redefining \pageref on input line 39.
-LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \ref on input line 42.
+LaTeX Info: Redefining \pageref on input line 42.
+LaTeX Info: Redefining \nameref on input line 42.
 
 (./beamer.out) (./beamer.out)
 \@outlinefile=\write5
@@ -945,133 +945,134 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./beamer.nav)
-LaTeX Font Info:    Try loading font information for U+msa on input line 94.
+) (./beamer.nav) [1
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for U+msa on input line 98.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 94.
+LaTeX Font Info:    Try loading font information for U+msb on input line 98.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (149.24759pt too wide) detected at line 94
+Overfull \hbox (149.24759pt too wide) detected at line 98
 [][][] $[]$[][][][][][][][] $[]$[][][][][][] 
- []
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 137.
-LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 137.
-LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 137.
-<dp.png, id=54, 803.0pt x 601.24625pt>
-File: dp.png Graphic file (type png)
-<use dp.png>
-Package pdftex.def Info: dp.png  used on input line 137.
-(pdftex.def)             Requested size: 85.5734pt x 61.47676pt.
-<mc.png, id=55, 803.0pt x 560.0925pt>
-File: mc.png Graphic file (type png)
-<use mc.png>
-Package pdftex.def Info: mc.png  used on input line 137.
-(pdftex.def)             Requested size: 85.5734pt x 61.47362pt.
-<td.png, id=56, 803.0pt x 601.24625pt>
-File: td.png Graphic file (type png)
-<use td.png>
-Package pdftex.def Info: td.png  used on input line 137.
-(pdftex.def)             Requested size: 85.5734pt x 73.77028pt.
-
-Overfull \vbox (5.9721pt too high) detected at line 137
  []
 
 [2
 
- <./dp.png (PNG copy)> <./mc.png (PNG copy)> <./td.png (PNG copy)>]
-<tdPrediction.png, id=86, 803.0pt x 622.325pt>
-File: tdPrediction.png Graphic file (type png)
-<use tdPrediction.png>
-Package pdftex.def Info: tdPrediction.png  used on input line 144.
-(pdftex.def)             Requested size: 342.30585pt x 245.92488pt.
+]
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 141.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 141.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 141.
+<dp.png, id=80, 803.0pt x 601.24625pt>
+File: dp.png Graphic file (type png)
+<use dp.png>
+Package pdftex.def Info: dp.png  used on input line 141.
+(pdftex.def)             Requested size: 85.5734pt x 61.47676pt.
+<mc.png, id=81, 803.0pt x 560.0925pt>
+File: mc.png Graphic file (type png)
+<use mc.png>
+Package pdftex.def Info: mc.png  used on input line 141.
+(pdftex.def)             Requested size: 85.5734pt x 61.47362pt.
+<td.png, id=82, 803.0pt x 601.24625pt>
+File: td.png Graphic file (type png)
+<use td.png>
+Package pdftex.def Info: td.png  used on input line 141.
+(pdftex.def)             Requested size: 85.5734pt x 73.77028pt.
 
-Overfull \vbox (0.9993pt too high) detected at line 144
+Overfull \vbox (5.9721pt too high) detected at line 141
  []
 
 [3
 
+ <./dp.png (PNG copy)> <./mc.png (PNG copy)> <./td.png (PNG copy)>]
+<tdPrediction.png, id=112, 803.0pt x 622.325pt>
+File: tdPrediction.png Graphic file (type png)
+<use tdPrediction.png>
+Package pdftex.def Info: tdPrediction.png  used on input line 148.
+(pdftex.def)             Requested size: 342.30585pt x 245.92488pt.
+
+Overfull \vbox (0.9993pt too high) detected at line 148
+ []
+
+[4
+
  <./tdPrediction.png (PNG copy)>]
-<mcVtd.png, id=113, 1003.75pt x 368.37625pt>
+<mcVtd.png, id=140, 1003.75pt x 368.37625pt>
 File: mcVtd.png Graphic file (type png)
 <use mcVtd.png>
-Package pdftex.def Info: mcVtd.png  used on input line 156.
+Package pdftex.def Info: mcVtd.png  used on input line 160.
 (pdftex.def)             Requested size: 205.37187pt x 49.18341pt.
- [4
-
- <./mcVtd.png (PNG copy)>]
-<tdZeroAlgo.png, id=141, 690.58pt x 389.455pt>
-File: tdZeroAlgo.png Graphic file (type png)
-<use tdZeroAlgo.png>
-Package pdftex.def Info: tdZeroAlgo.png  used on input line 167.
-(pdftex.def)             Requested size: 136.91228pt x 98.3678pt.
  [5
 
- <./tdZeroAlgo.png>] [6
+ <./mcVtd.png (PNG copy)>]
+<tdZeroAlgo.png, id=167, 690.58pt x 389.455pt>
+File: tdZeroAlgo.png Graphic file (type png)
+<use tdZeroAlgo.png>
+Package pdftex.def Info: tdZeroAlgo.png  used on input line 171.
+(pdftex.def)             Requested size: 136.91228pt x 98.3678pt.
+ [6
+
+ <./tdZeroAlgo.png>] [7
 
 ]
-<mctdoptimality.png, id=199, 899.36pt x 521.95pt>
+<mctdoptimality.png, id=226, 899.36pt x 521.95pt>
 File: mctdoptimality.png Graphic file (type png)
 <use mctdoptimality.png>
-Package pdftex.def Info: mctdoptimality.png  used on input line 226.
+Package pdftex.def Info: mctdoptimality.png  used on input line 230.
 (pdftex.def)             Requested size: 136.91547pt x 122.9609pt.
 
-Overfull \hbox (21.89949pt too wide) in paragraph at lines 226--226
+Overfull \hbox (21.89949pt too wide) in paragraph at lines 230--230
 []  
  []
 
 
-Overfull \vbox (11.3288pt too high) detected at line 226
+Overfull \vbox (11.3288pt too high) detected at line 230
  []
 
-[7
+[8
 
- <./mctdoptimality.png>] [8
+ <./mctdoptimality.png>] [9
 
-] [9
+] [10
 
 ]
-<sarsa.png, id=283, 1031.855pt x 381.425pt>
+<sarsa.png, id=309, 1031.855pt x 381.425pt>
 File: sarsa.png Graphic file (type png)
 <use sarsa.png>
-Package pdftex.def Info: sarsa.png  used on input line 312.
+Package pdftex.def Info: sarsa.png  used on input line 316.
 (pdftex.def)             Requested size: 136.91695pt x 122.9606pt.
 
-Overfull \hbox (21.90097pt too wide) in paragraph at lines 312--312
-[]  
- []
-
-[10
-
- <./sarsa.png>]
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 347.
-LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <9> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 347.
-LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <9> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 347.
-<qlearning.png, id=316, 989.6975pt x 364.36125pt>
-File: qlearning.png Graphic file (type png)
-<use qlearning.png>
-Package pdftex.def Info: qlearning.png  used on input line 347.
-(pdftex.def)             Requested size: 136.91063pt x 147.55437pt.
-
-Overfull \hbox (21.89465pt too wide) in paragraph at lines 347--347
+Overfull \hbox (21.90097pt too wide) in paragraph at lines 316--316
 []  
  []
 
 [11
+
+ <./sarsa.png>]
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 351.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <9> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 351.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <9> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 351.
+<qlearning.png, id=342, 989.6975pt x 364.36125pt>
+File: qlearning.png Graphic file (type png)
+<use qlearning.png>
+Package pdftex.def Info: qlearning.png  used on input line 351.
+(pdftex.def)             Requested size: 136.91063pt x 147.55437pt.
+
+Overfull \hbox (21.89465pt too wide) in paragraph at lines 351--351
+[]  
+ []
+
+[12
 
  <./qlearning.png>]
 \tf@nav=\write6
@@ -1083,22 +1084,22 @@ Overfull \hbox (21.89465pt too wide) in paragraph at lines 347--347
 \tf@snm=\write8
 \openout8 = `beamer.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 348.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 348.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 352.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 352.
  (./beamer.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 348.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 348.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 352.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 352.
 Package rerunfilecheck Info: File `beamer.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22418 strings out of 492982
- 463927 string characters out of 6134895
- 560174 words of memory out of 5000000
- 25446 multiletter control sequences out of 15000+600000
- 25833 words of font info for 64 fonts, out of 8000000 for 9000
+ 22477 strings out of 492982
+ 465192 string characters out of 6134895
+ 560356 words of memory out of 5000000
+ 25502 multiletter control sequences out of 15000+600000
+ 27593 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,15n,67p,795b,1083s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,15n,67p,795b,1084s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/
@@ -1114,10 +1115,10 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 urw/helvetic/uhvr8a.pfb>
-Output written on beamer.pdf (11 pages, 785134 bytes).
+Output written on beamer.pdf (12 pages, 787958 bytes).
 PDF statistics:
- 399 PDF objects out of 1000 (max. 8388607)
- 342 compressed objects within 4 object streams
- 23 named destinations out of 1000 (max. 500000)
+ 426 PDF objects out of 1000 (max. 8388607)
+ 368 compressed objects within 4 object streams
+ 25 named destinations out of 1000 (max. 500000)
  118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
